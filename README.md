@@ -1,2 +1,2 @@
 # PrometheeXmessenger
-A bot for promethee
+A bot messenger for promethee
