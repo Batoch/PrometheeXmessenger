@@ -6,8 +6,8 @@ from bs4 import BeautifulSoup
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-Login = 'baptiste.massardier'
-Password = '5dsa3y3x'
+Login = ''
+Password = ''
 #Login = input("Login promethee: ")
 #Password = input("Password promethee: ")
 
