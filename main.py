@@ -21,7 +21,7 @@ yourThread = threading.Thread()
 
 def create_app():
     app = Flask(__name__)
-    ACCESS_TOKEN = 'EAAVvf2GteAABALolELAKiWRETFFhTvRxZCyMwFI5u75KdQVyZBER4DyTQi05SUBntmljWGw05QH3zMZAZB0j1QII5dLumAs3a4hj8smvGJYP8kBHZBIehs1OJMTvnibMg6XMoM7535bnvVL9SdLeYoBJWDLeWBsHuVS3jQjwIbrnNSgbVq76V8y1QDgoEgLUZD'
+    ACCESS_TOKEN = 'ACCESTOKEN'
     VERIFY_TOKEN = 'TESTINGTOKEN'
     bot = Bot(ACCESS_TOKEN)
 
